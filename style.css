@@ -14,6 +14,14 @@ body{
     background: #DE522F;
 }
 
+.header {
+    background-color: #000000;
+}
+
+.header .texto_header {
+    text-color: #FFFFFF;
+}
+
 .container{
     width: 350px;
     height: 400px;

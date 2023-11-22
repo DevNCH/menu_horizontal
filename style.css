@@ -14,9 +14,8 @@ body{
     background: #FFFFFF;
 }
 
-.header {
-    background-color: #000000;
-    color: #fff;
+#menu_horizontal {
+    list-style: none;
 }
 
 .container{

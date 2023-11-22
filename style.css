@@ -16,6 +16,8 @@ body{
 
 #menu-horizontal {
     list-style: none;
+    padding: 0;
+    background: #fff;
 }
 
 #menu-horizontal li{

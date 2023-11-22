@@ -18,6 +18,10 @@ body{
     list-style: none;
 }
 
+#menu-horizontal li{
+    display: inline;
+}
+
 .container{
     width: 350px;
     height: 400px;
